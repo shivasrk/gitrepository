@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ecommerce
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shiva rama
+Implementation-Vendor-Id: com.springframework
+Build-Jdk: 1.8.0_31
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ecommerce
+Created-By: Maven Integration for Eclipse
+
