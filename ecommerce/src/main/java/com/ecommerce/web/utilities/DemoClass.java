@@ -16,6 +16,7 @@ public class DemoClass {
 	 
 	 System.out.println("this is just a method");
 	 System.out.println("this is not  just a method");
+	 System.out.println("this is third time");
 	 
 		
 	}
